@@ -1,5 +1,4 @@
 # Encode Virtual Interviews - Anjali/Blake/Madelyn
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
